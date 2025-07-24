@@ -238,7 +238,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const projectLinks = [
     "https://swaadconnect-frontend.onrender.com", 
     "https://feedinghands-7dt1.onrender.com",     
-    "https://wanderlust-b93r.onrender.com"        
+    "https://wanderlust-b93r.onrender.com",
+    "https://github.com/PurvaSJadhav/Library-Management-System"        
   ];
   const iconBoxes = document.querySelectorAll(".project-item-icon-box");
   iconBoxes.forEach((iconBox, index) => {
